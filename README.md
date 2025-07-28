@@ -35,7 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" height="40" alt="Postman Logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
 </p>
 

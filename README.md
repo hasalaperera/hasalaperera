@@ -2,20 +2,22 @@
 <h3 align="center">🚀 Full-Stack Developer | Tech Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Passionate%20Developer;Love%20React%20%26%20Node;Tailwind%20Fan;Always%20Learning%20New%20Tech&center=true&width=440&height=45&color=38BDF8&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Creative%20Problem%20Solver;Full-Stack%20Web%20Developer;Focused%20on%20Clean%20%26%20Scalable%20Code;Always%20Learning%20Something%20New&center=true&width=480&height=45&color=38BDF8&vCenter=true&pause=1000&size=22" />
 </p>
+
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **MERN Stack Projects**
-- 🌱 I’m exploring **Docker, Firebase, and WebSockets**
-- 💬 Ask me about **React, Express, MongoDB, Tailwind, or Vite**
-- 📫 How to reach me: [PORTFOLIO](https://hasalaperera.netlify.app/)
-- 🧠 Always curious about **DevOps and scalable backend architectures**
+- 🔭 Currently building full-stack web applications with a focus on performance and user experience  
+- 🌱 Exploring modern tools and workflows to streamline development and deployment  
+- 💬 Open to conversations about problem-solving, clean code, and building impactful digital solutions  
+- 📫 How to reach me: [PORTFOLIO](https://hasalaperera.netlify.app/)  
+- 🧠 Passionate about learning, adapting to new challenges, and designing systems that scale efficiently  
 
 ---
+
 
 ## 🚀 Tech Stack
 
